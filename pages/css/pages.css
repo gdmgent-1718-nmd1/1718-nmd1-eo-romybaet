@@ -13,6 +13,11 @@ body {
     padding: 50px;
 }
 
+#airfest{
+    width: 100px;
+    height: 100px;
+}
+
 img {
     width: 700px;
     padding: 20px;
@@ -29,4 +34,124 @@ img {
     width: 600px;
 }
 
+h2{
+    font-weight: lighter;
+    color: #202248;
+}
+
+h3 {
+    font-weight: lighter;
+    color: #595EB5;
+}
+
+h4{
+    font-weight: lighter;
+    color: #707070;
+}
+
+nav{
+    background-color:#DCCEAF;
+    width: 450px;
+    padding: 0.10%;
+}
+
+nav li{
+    display: inline;
+    padding: 1%;
+}
+
+nav li a{
+    text-decoration: none;
+    color:white;
+    font-weight: bold;
+    
+}
+
+nav li a:hover{
+    color:rgb(112,112,112);
+    transition: .4s ease-in;
+}
+#kleur1{
+    background-color:#6F6F6F;
+    color:white;
+    width: 360px;
+    padding: 0.25%;
+    padding-left: 1%;
+}
+#kleur2{
+    background-color:#303257;
+    color: white;
+    width:360px;
+    padding: 0.25%;
+    padding-left: 1%;
+   
+}
+
+#kleur3{  
+    background-color:#595EB5;
+    width:360px;
+    color:white;
+    padding: 0.25%;
+    padding-left: 1%;
+}
+
+#kleur4{
+    background-color:#676CBD;
+    color:white;
+    width: 360px;
+    padding: 0.25%;
+    padding-left: 1%;
+}
+
+#kleur5{
+    background-color:#757AD7;
+    color:white;
+    width: 360px;
+    padding: 0.25%;
+    padding-left: 1%;
+}
+
+#kleur6{
+    background-color:#A47F49;
+    color:white;
+    width: 360px;
+    padding: 0.25%;
+    padding-left: 1%;
+
+}
+
+#kleur7{
+    background-color:#DCCEAF;
+    color:white;
+    width: 360px;
+    padding: 0.25%;
+    padding-left: 1%;
+}
+
+#kleur8{
+    background-color:#FFFFFF;
+    color:black;
+    width: 360px;
+    padding: 0.25%;
+    padding-left: 1%;
+    border: solid;
+    
+
+}
+
+button{
+    
+    background-color:#6368C8;
+    width: 140px;
+    padding: 7px;
+    margin: 10px;
+    border-radius: 5px;
+    color: white;
+}
+
+#iconen{
+    background-color:white;
+    color: black;
+    size: 20pt;
+}
 /* Voeg jouw css hieraan toe */
